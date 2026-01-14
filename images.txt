@@ -1,2 +1,1 @@
-docker.openhands.dev/openhands/runtime:1.1-nikolaik
-docker.openhands.dev/openhands/openhands:1.1
+ghcr.io/openhands/agent-server:0b7ccc9-python
