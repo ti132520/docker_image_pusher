@@ -1,1 +1,1 @@
-ghcr.io/openhands/agent-server:0b7ccc9-python
+gcr.io/kubeflow-ci/pytorch-dist-mnist_test:1.0
