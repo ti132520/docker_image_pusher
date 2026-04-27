@@ -1,1 +1,1 @@
- --platform=linux/arm64 docker.io/grafana/grafana
+ --platform=linux/arm64 digitalocean/ceph_exporter:3.0.0-nautilus
