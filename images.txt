@@ -1,2 +1,2 @@
-quay.io/prometheus/node-exporter:latest --platform=linux/arm64
-quay.io/ceph/ceph-grafana  --platform=linux/arm64
+ --platform=linux/arm64 quay.io/prometheus/node-exporter:latest
+ --platform=linux/arm64 quay.io/ceph/ceph-grafana
