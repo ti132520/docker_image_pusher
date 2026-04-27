@@ -1,1 +1,2 @@
-ghcr.io/kubeflow/training-v1/pytorch-dist-mnist:latest
+quay.io/ceph/ceph-exporter --platform=linux/arm64
+quay.io/ceph/ceph-grafana  --platform=linux/arm64
