@@ -21,6 +21,7 @@ jobs:
     - name: Before freeing up disk space
       run: |
         echo "Before freeing up disk space"
+        echo "docker login -u " $ALIYUN_REGISTRY_USER " -p "$ALIYUN_REGISTRY_PASSWORD" "$ALIYUN_REGISTRY
         echo "=============================================================================="
         df -hT
         echo "=============================================================================="
